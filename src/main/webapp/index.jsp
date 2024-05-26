@@ -4,7 +4,7 @@
 
 <a href="https://www.linkedin.com/in/vipin-soni-38564425" a/> Click Here To See Vipin Linkedin profile</a>
   
-  <h2> Call Us : + 91 - 74 89 74 69 90 </h2>
+  <h2> Call Us : + 91 - 74 89 74 69 90   the updated mobile no is 8827655265 </h2>
   
   <h3> Location : Bangalore, </h3>
   
